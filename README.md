@@ -1,0 +1,2 @@
+# GenshinOptimization
+Zhongli Spear Optimization
